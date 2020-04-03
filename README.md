@@ -1,0 +1,1 @@
+This is Yanick's first git project!
